@@ -2,7 +2,7 @@ extern crate leap_year;
 
 use leap_year::is_leap_year;
 
-pub fn days_in_month(year: i32, month: i32) -> i32 {
+pub fn days_in_month(year: i32, month: u32) -> u32 {
     return match month {
         2 => if is_leap_year(year) { 29 } else { 28 },
         4 | 6 | 9 | 11 => 30,
