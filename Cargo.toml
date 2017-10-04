@@ -1,6 +1,6 @@
 [package]
 name = "days-in-month"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["David Björklund <david.bjorklund@gmail.com>"]
 repository = "https://github.com/kesla/days-in-month.rs"
 license = "MIT"
