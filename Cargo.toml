@@ -1,0 +1,6 @@
+[package]
+name = "days-in-month"
+version = "0.1.0"
+authors = ["David Björklund <david.bjorklund@gmail.com>"]
+
+[dependencies]
