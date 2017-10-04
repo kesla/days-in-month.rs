@@ -2,5 +2,9 @@
 name = "days-in-month"
 version = "0.1.0"
 authors = ["David Björklund <david.bjorklund@gmail.com>"]
+repository = "https://github.com/kesla/days-in-month.rs"
+license = "MIT"
+description = "Get how many days a month has"
 
 [dependencies]
+leap-year = "0.1"
